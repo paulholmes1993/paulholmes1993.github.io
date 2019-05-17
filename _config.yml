@@ -1,11 +1,11 @@
 # Site settings
 author: Paul Holmes
-title: 
+title: My blog title!
 header-img: img/home-bg.png
 email: paulholmes1993@gmail.com
 copyright_name: Paul Holmes
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My blog for FlatIron Software Engineering Program
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  paulholmes1993
